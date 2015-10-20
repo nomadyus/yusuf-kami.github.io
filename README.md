@@ -1,1 +1,1 @@
-yusuf-kami@github.io
+yusuf-kami.github.io
