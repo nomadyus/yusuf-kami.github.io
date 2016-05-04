@@ -2,7 +2,7 @@
 Personal website powered by Jekyll and GitHub Pages showcasing history of dev work
 
 ## CNAME
-[yusuffadairo.com](http://www.yusuffadairo.com)
+[yusuffadairo.com](//yusuf-kami.github.io)
 
 ## Requirements
 - ruby >= 2.0.0 
