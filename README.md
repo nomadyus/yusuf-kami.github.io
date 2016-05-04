@@ -2,14 +2,14 @@
 Personal website powered by Jekyll and GitHub Pages showcasing history of dev work
 
 ## CNAME
-[yusuffadairo.com](//www.yusuffadairo.com)
+[yusuffadairo.com](http://www.yusuffadairo.com)
 
 ## Requirements
 - ruby >= 2.0.0 
 - gpg >= 1.4.1
 - rvm >= 1.27.0
 - bundler >= 1.12.1
-- [Gemfile](/Gemfile)
+- Gemfile
     - ['github-pages'](https://rubygems.org/gems/github-pages)
     - ['therubyracer'](https://rubygems.org/gems/therubyracer)
 
