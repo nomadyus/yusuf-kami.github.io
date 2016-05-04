@@ -1,6 +1,31 @@
-[yusuf-kami.github.io](yusuf-kami.github.io)
-==================
+# [yusuf-kami.github.io](yusuf-kami.github.io)
 Personal website powered by Jekyll and GitHub Pages showcasing history of dev work
 
-###CNAME###
-[yusufsoyo.com](yusufsoyo.com)
+## CNAME
+[yusuffadairo.com](//www.yusuffadairo.com)
+
+## Requirements
+- ruby >= 2.0.0 
+- gpg >= 1.4.1
+- rvm >= 1.27.0
+- bundler >= 1.12.1
+- [Gemfile](/Gemfile)
+    - ['github-pages'](https://rubygems.org/gems/github-pages)
+    - ['therubyracer'](https://rubygems.org/gems/therubyracer)
+
+## Installation 
+1. Use the ``cd`` to navigate to the directory 
+2. Install the gems in the ``Gemfile``
+    
+    ```
+        $ bundle install
+    ```
+3. Create a new jekyll site in your directory
+
+    ```
+        $ jekyll new . --force
+    ```
+    
+## Versions
+- June 2015 - April 2016: [1.0 - yusufsoyo.com](/../tree/yusufsoyo.com)
+- Apri 2016: [2.0 - yusuffadairo.com](/../tree/master)
