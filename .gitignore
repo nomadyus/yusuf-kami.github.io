@@ -9,5 +9,8 @@
 .ruby-version
 .sass-cache
 Gemfile.lock
+_data/
 _site/
+_drafts/
+_posts/
 vendor/
