@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the personal websites for Yusuf Fadairo showcasing all relevant history     of development work on various projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.yusuffadairo.com" # the base hostname & protocol for your site
-twitter_username: InscrtableAfro
+twitter_username: InscrutableAfro
 github_username:  yusuf-kami
 
 # Build settings
