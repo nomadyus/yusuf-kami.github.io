@@ -20,17 +20,12 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     ```
         $ bundle install
     ```
-3. Create a new jekyll site in your directory
-
-    ```
-        $ jekyll new . --force
-    ``` 
-4. Start up the jekyll server
+3. Start up the jekyll server
     
-    ``
+    ```
         $ jekyll serve --host 0.0.0.0 
-    ``
-5. The jekyll server will be active on port 4000
+    ```
+4. The jekyll server will be active on port 4000
 
 ## Versions
 - June 2015 - April 2016: [1.0 - yusufsoyo.com](//github.com/yusuf-kami/yusuf-kami.github.io/tree/yusufsoyo.com)
