@@ -3,11 +3,15 @@
 *~
 .DS_Store
 .analysis
+.bundle/
 .byebug_history
 .jekyll-metadata
 .ruby-gemset
 .ruby-version
 .sass-cache
+/vendor
 Gemfile.lock
 _site/
-vendor/
+bbin/
+coverage
+tmp/*
