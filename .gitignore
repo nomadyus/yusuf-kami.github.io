@@ -12,6 +12,7 @@
 /vendor
 Gemfile.lock
 _site/
+_drafts/
 bbin/
 coverage
 tmp/*
