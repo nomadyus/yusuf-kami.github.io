@@ -20,6 +20,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     ```
         $ bundle install
     ```
+    
 3.a Start up the jekyll server
     
     ```
