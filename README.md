@@ -19,9 +19,8 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     
     ```
         $ bundle install
-    ```
-    
-3.a Start up the jekyll server
+    ```  
+3. Start up the jekyll server
     
     ```
         $ jekyll serve --host 0.0.0.0 
