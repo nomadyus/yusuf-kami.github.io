@@ -14,7 +14,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     - ['therubyracer'](https://rubygems.org/gems/therubyracer)
 
 ## Installation 
-1. Use the ``cd`` to navigate to the directory 
+1. Use the ``cd`` command to navigate to the directory 
 2. Install the gems in the ``Gemfile``
     
     ```
