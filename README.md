@@ -22,12 +22,12 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     ```  
 3. Start up the jekyll server
 
-3.a. To build the pages of the site and serve
+    3.a. To build the pages of the site and serve
     
     ```
         $ jekyll serve --host 0.0.0.0 
     ```
-3.b. Or to allow jekyll to listen to changes in files and update the site build
+    3.b. Or to allow jekyll to listen to changes in files and update the site build
     
     ```
         $ jekyll serve --force_polling --host 0.0.0.0
