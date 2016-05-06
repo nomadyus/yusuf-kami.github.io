@@ -20,10 +20,15 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     ```
         $ bundle install
     ```
-3. Start up the jekyll server
+3.a Start up the jekyll server
     
     ```
         $ jekyll serve --host 0.0.0.0 
+    ```
+3.b. Or to allow jekyll to listen to changes in files and update the site build
+    
+    ```
+        $ jekyll serve --force_polling --host 0.0.0.0
     ```
 4. The jekyll server will be active on port 4000
 
