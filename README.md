@@ -22,7 +22,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     ```  
 3. Start up the jekyll server
 
-    3.a. To build the pages of the site and serve
+    3.a. To build the pages of the site and serve them
     
     ```
         $ jekyll serve --host 0.0.0.0 
