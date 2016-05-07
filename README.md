@@ -34,6 +34,10 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     ```
 4. The jekyll server will be active on port 4000
 
+## Layouts
+- Default [default]
+- White Glass [white-glass]
+
 ## Versions
 - June 2015 - April 2016: [1.0 - yusufsoyo.com](//github.com/yusuf-kami/yusuf-kami.github.io/tree/yusufsoyo.com)
 - Apri 2016: [2.0 - yusuffadairo.com](//github.com/yusuf-kami/yusuf-kami.github.io/tree/master)
