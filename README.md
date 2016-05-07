@@ -36,7 +36,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
 
 ## Layouts
 - Default [default]
-- White Glass [white-glass]
+- White Glass [white-glass](//github.com/yusuf-kami/yusuf-kami.github.io/blob/gh-pages/assets/wg/info.md)
 
 ## Versions
 - June 2015 - April 2016: [1.0 - yusufsoyo.com](//github.com/yusuf-kami/yusuf-kami.github.io/tree/yusufsoyo.com)
