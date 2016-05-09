@@ -9,6 +9,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
 - gpg >= 1.4.1
 - rvm >= 1.27.0
 - bundler >= 1.12.1
+- rake >= 10.0
 - Gemfile
     - ['github-pages'](https://rubygems.org/gems/github-pages)
     - ['therubyracer'](https://rubygems.org/gems/therubyracer)
