@@ -14,16 +14,16 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     - ['therubyracer'](https://rubygems.org/gems/therubyracer)
 
 ## Installation 
-1. Use the ``cd`` to navigate to the directory 
-2. Install the gems in the ``Gemfile``
+1. Use the `cd` to navigate to the directory 
+2. Install the gems in the `Gemfile`
     
     ```
-        $ bundle install
+        bundle install
     ```
 3. Start up the jekyll server
     
     ```
-        $ jekyll serve --host 0.0.0.0 
+        jekyll serve --host 0.0.0.0 
     ```
 4. The jekyll server will be active on port 4000
 
@@ -34,13 +34,16 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
 ## Issues
 - If unable to run Jekyll due to bundler issues like `block in setup` run Jekyll using the command:
   ```
-    bundle exec jekyll serve --host 0.0.0.0 
+    bundle exec jekyll serve --host 0.0.0.0
   ```
-- If unable to install `therubyracer` due to `unrecognized command line option '-rdynamic'` use the following steps to install `therubyracer`
+- If unable to install `therubyracer` NOTE: `therubyracer` uses `libv8` which doesnt yet exists for Windows. However, Windows should come with a JScript, the Microsoft JavaScript runtime, which rails (via execjs) will automatically detect and use, so you should be able to just remove your dependency on therubyracer. [Source](https://stackoverflow.com/questions/6356450/therubyracer-gem-on-windows)
 
-- If you have to use a different version of Python use [Anaconda](https://www.continuum.io/) to manage Python use this [guide](https://conda.io/docs/py2or3.html)
-
-- To ununstall on gems
+- If you have to use a different version of Python use this [guide](https://conda.io/docs/py2or3.html) of [Anaconda](https://www.continuum.io/) to manage Python versions
+- To uninstall all gems
   ```
     gem uninstall --all --force
-  ```  
+  ```
+- To upgrade your version of RubyGems
+  ```
+    gem update --system    
+  ```
