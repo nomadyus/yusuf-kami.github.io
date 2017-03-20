@@ -1,5 +1,5 @@
 # [yusuf-kami.github.io](//yusuf-kami.github.io)
-Personal website powered by Jekyll and GitHub Pages showcasing history of dev work
+Personal website powered by Jekyll and GitHub Pages showcasing history of dev work of Yusuf Fadairo
 
 ## CNAME
 [yusuffadairo.com](//yusuf-kami.github.io)
