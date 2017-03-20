@@ -17,3 +17,5 @@ github_username:  yusuf-kami
 
 # Build settings
 markdown: kramdown
+incremental: true
+#repository: yusuf-kami/yusuf-kami.github.io
