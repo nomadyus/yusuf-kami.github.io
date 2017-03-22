@@ -33,7 +33,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
 5. The jekyll server will be active on port 4000
 
 ## Versions
-- Apri 2016: [2.0 - yusuffadairo.com](//github.com/yusuf-kami/yusuf-kami.github.io/tree/master)
+- Apri 2016: [1.0 - yusuffadairo.com](//github.com/yusuf-kami/yusuf-kami.github.io/tree/ yusuffadairo.com-v1)
 - June 2015 - April 2016: [1.0 - yusufsoyo.com](//github.com/yusuf-kami/yusuf-kami.github.io/tree/yusufsoyo.com)
 
 ## Issues
