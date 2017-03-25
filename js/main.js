@@ -1,4 +1,6 @@
-const USER_ON_PAGE_MSG = "Yusuf Fadairo";
+---
+---
+const USER_ON_PAGE_MSG = "{{ site.title }}";
 const USER_OUT_OF_PAGE_MSG = "Come back, Please!";
 
 window.onload = window.onfocus = userBackOnPage;
@@ -14,5 +16,5 @@ function userBackOnPage() {
 }
 
 function userMouseMoved() {
-  console.log("your have the power after all!!");
+  console.log("You have the power after all!!");
 }
