@@ -1,0 +1,47 @@
+body {
+  font-family: Verdana, sans-serif;
+  font-style: normal;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+}
+
+.main {
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  width: 400px;
+  margin-left: -200px;
+}
+
+.header {
+  margin-bottom: -1.2em;
+}
+
+p {
+  margin: 1.4em 0;
+}
+
+a,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: #955656;
+}
+
+a:hover {
+  color: #6500ff;
+  transition: color 500ms ease-out;
+}
+
+span {
+  color: #ff00bb;
+}
+
+span:hover {
+  background-color: #FFFF00;
+  color: #000;
+}
