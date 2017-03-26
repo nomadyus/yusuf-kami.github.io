@@ -10,7 +10,7 @@ name: Yusuf Fadairo
 title: "Yusuf Fadairo's Portfolio"
 email: hi@yusuffadairo.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the personal websites for Yusuf Fadairo showcasing all relevant history of development work on various projects
+  This is the personal website of Yusuf Fadairo showcasing all relevant history of development work on various projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.yusuffadairo.com" # the base hostname & protocol for your site
 email: hi@yusuffadairo.com
