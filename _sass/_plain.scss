@@ -1,4 +1,4 @@
-ff-verdana {
+.ff-verdana {
   font-family: Verdana, sans-serif;
 }
 
@@ -21,4 +21,16 @@ ff-verdana {
 .highlight:hover {  
   color: #000;
   background-color: #FFFF00;
+}
+
+.left-50 {
+  left: 50%;
+}
+
+.top-50 {
+  top: 50%;
+}
+
+.transform-center {
+  transform: translateX(-50%) translateY(-50%);
 }
