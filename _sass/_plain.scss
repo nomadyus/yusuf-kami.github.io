@@ -1,47 +1,24 @@
-body {
+ff-verdana {
   font-family: Verdana, sans-serif;
-  font-style: normal;
 }
 
-.wrap {
-  width: 100%;
-  height: 100%;
+.hover-blue:hover {  
+  color: #6500ff;
 }
 
-.main {
-  position: absolute;
-  left: 50%;
-  top: 20%;
-  width: 400px;
-  margin-left: -200px;
-}
-
-.header {
-  margin-bottom: -1.2em;
-}
-
-p {
-  margin: 1.4em 0;
-}
-
-a,
-a:visited,
-a:link,
-a:active {
-  text-decoration: none;
+.brown-orange .brown-orange:visited, .brown-orange:link, .brown-orange:active {
   color: #955656;
 }
 
-a:hover {
-  color: #6500ff;
+.transition-color {
   transition: color 500ms ease-out;
 }
 
-span {
+.bright-pink {
   color: #ff00bb;
 }
 
-span:hover {
-  background-color: #FFFF00;
+.highlight:hover {  
   color: #000;
+  background-color: #FFFF00;
 }
