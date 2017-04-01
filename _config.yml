@@ -8,6 +8,7 @@
 # Site settings
 name: Yusuf Fadairo
 title: "Yusuf Fadairo's Portfolio"
+bye: "Come back, Please!"
 email: hi@yusuffadairo.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the personal website of Yusuf Fadairo showcasing all relevant history of development work on various projects
