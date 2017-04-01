@@ -1,7 +1,7 @@
 ---
 ---
 const USER_ON_PAGE_MSG = "{{ site.title }}";
-const USER_OUT_OF_PAGE_MSG = "Come back, Please!";
+const USER_OUT_OF_PAGE_MSG = "{{ site.bye }}";
 
 window.onload = window.onfocus = userBackOnPage;
 window.onblur = userNotOnPage;
