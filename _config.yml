@@ -15,6 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.yusuffadairo.com" # the base hostname & protocol for your site
 email: hi@yusuffadairo.com
 phone: 16134025264
+phone_safe: "1-613-402-five two six four"
 twitter_username: InscrutableAfro
 github_username:  yusuf-kami
 
