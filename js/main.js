@@ -1,7 +1,8 @@
 ---
 ---
 const USER_ON_PAGE_MSG = "{{ site.title }}";
-const USER_OUT_OF_PAGE_MSG = "{{ site.bye }}";
+const USER_OUT_OF_PAGE_MSG = "{{ site.message.bye }}";
+const USER_MADE_A_MOVE = "{{ site.message.move }}";
 
 window.onload = window.onfocus = userBackOnPage;
 window.onblur = userNotOnPage;
@@ -16,5 +17,5 @@ function userBackOnPage() {
 }
 
 function userMouseMoved() {
-  console.log("You have the power after all!!");
+  console.log(USER_MADE_A_MOVE);
 }
