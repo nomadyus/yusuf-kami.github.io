@@ -10,6 +10,10 @@ body  {
   color: #6500ff;
 }
 
+.golden:hover {  
+  color: gold;
+}
+
 .brown-orange .brown-orange:visited, .brown-orange:link, .brown-orange:active {
   color: #955656;
 }
@@ -23,7 +27,7 @@ body  {
 }
 
 .emphasize:hover {  
-  border-color: #ffb700;
+  border-color: gold;
   border-style: solid;
   border-width: 0px;
   border-bottom-width: 2px;
