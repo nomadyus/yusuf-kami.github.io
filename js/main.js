@@ -1,5 +1,8 @@
-const USER_ON_PAGE_MSG = "Yusuf Fadairo";
-const USER_OUT_OF_PAGE_MSG = "Come back, Please!";
+---
+---
+const USER_ON_PAGE_MSG = "{{ site.title }}";
+const USER_OUT_OF_PAGE_MSG = "{{ site.message.bye }}";
+const USER_MADE_A_MOVE = "{{ site.message.move }}";
 
 window.onload = window.onfocus = userBackOnPage;
 window.onblur = userNotOnPage;
@@ -14,5 +17,5 @@ function userBackOnPage() {
 }
 
 function userMouseMoved() {
-  console.log("your have the power after all!!");
+  console.log(USER_MADE_A_MOVE);
 }
