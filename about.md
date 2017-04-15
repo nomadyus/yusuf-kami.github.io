@@ -1,15 +1,16 @@
 ---
 layout: plain/page
-title: About
+title: Who is Yusuf Fadairo?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<p class="ma0 pa0 f4 pv2">
+  <span class="golden">Yusuf Fadairo</span> is a software developer based in Toronto, Canada.
+  He loves to write code and he does so very well with his swift robot like hands but in his  spare time he uses his <span class="">swift vivifying feet</span> to disrupt the dancefloor.
+</p>
+<p class="ma0 pa0 f4 pb2">
+  You can contact him by email at <a class="link emphasize" href="mailto:{{ site.email }}">{{ site.email }}</a>
+</p>
+<p class="ma0 pa0 f4 pb2">
+  You can see his public projects on <a class="link emphasize" href="https://github.com/yusuf-kami"> GitHub</a>
+</p>
