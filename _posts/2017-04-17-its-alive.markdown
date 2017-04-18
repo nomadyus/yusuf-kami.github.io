@@ -1,0 +1,7 @@
+---
+layout: plain/post
+title:  "It's Alive!"
+date:   2017-04-17 18:59:25 +0000
+categories: blog update
+---
+This blog-based site is finally alive!!
