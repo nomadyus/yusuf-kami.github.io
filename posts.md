@@ -1,6 +1,6 @@
 ---
 layout: plain/page
-title: Whats up!
+title: What's up!
 permalink: /posts/
 ---
 
