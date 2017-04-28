@@ -7,7 +7,7 @@ permalink: /posts/
 Here lives the posts made by Yusuf Fadairo!
 
 {% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p class="date">
     <span class="date">{{ post.date }}</span>
   </p>
