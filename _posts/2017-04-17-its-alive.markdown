@@ -6,4 +6,4 @@ categories: blog news
 ---
 This blog-based site is finally alive!!
 
-Finally, This site is up and running
+Finally, This site is up and running!
