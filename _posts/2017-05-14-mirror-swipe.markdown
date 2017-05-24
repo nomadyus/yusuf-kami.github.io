@@ -8,4 +8,4 @@ I created an interesting web page that tries to mimic the rating system in Seaso
 
 mirror-swipe.s3-website-us-east-1.amazonaws.com
 
-Its pretty cool
+It's pretty cool
