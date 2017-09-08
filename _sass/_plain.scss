@@ -1,54 +1,65 @@
-body  {
-  background-color: #c0c0c0;
+body {
+    background-color: #c0c0c0;
 }
 
 .ff-verdana {
-  font-family: Verdana, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
-.hover-blue:hover {  
-  color: #6500ff;
+.hover-blue:hover {
+    color: #6500ff;
 }
 
-.golden:hover {  
-  color: gold;
+.golden:hover {
+    color: gold;
 }
 
-.brown-orange .brown-orange:visited, .brown-orange:link, .brown-orange:active {
-  color: #955656;
+.brown-orange .brown-orange:visited,
+.brown-orange:link,
+.brown-orange:active {
+    color: #955656;
 }
 
 .transition-color {
-  transition: color 500ms ease-out;
+    transition: color 500ms ease-out;
 }
 
 .bright-pink {
-  color: #ff00bb;
+    color: #ff00bb;
 }
 
-.emphasize:hover {  
-  border-color: gold;
-  border-style: solid;
-  border-width: 0px;
-  border-bottom-width: 2px;
+.emphasize:hover {
+    border-color: gold;
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 2px;
 }
 
 .emphasize {
-  color: #fbfbfb;
+    color: #fbfbfb;
 }
 
 .left-50 {
-  left: 50%;
+    left: 50%;
 }
 
 .top-50 {
-  top: 50%;
+    top: 50%;
 }
 
 .transform-center {
-  transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
 }
 
 .f-7vw {
-  font-size: 7vw;
+    font-size: 7vw;
+}
+
+// for background in mobile
+element.style {
+    background-image: url('../img/prof huge.jpg');
+    background-origin: content-box;
+    background-size: 300%;
+    background-position-x: right;
+    background-repeat: no-repeat;
 }
