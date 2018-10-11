@@ -29,7 +29,7 @@ message:
   bye: "Come back, Please!"
   move: "You have the power after all!!"
   yusuf_is:
-    0: "a Software Developer."
-    1: "a Dancing machine!"
-    2: "quite silly."
-    3: "Toronto"
+    - "a Software Developer."
+    - "a Dancing machine!"
+    - "quite silly."
+    - "Toronto"
