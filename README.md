@@ -5,7 +5,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
 [yusuffadairo.com](//yusuf-kami.github.io)
 
 ## Requirements
-- ruby >= 2.0.0 
+- ruby >= 2.0.0
 - gpg >= 1.4.1
 - [rvm >= 1.27.0](https://rvm.io/)
 - [bundler >= 1.12.1](https://bundler.io/)
@@ -13,23 +13,23 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
     - ['github-pages'](https://rubygems.org/gems/github-pages)
     - ['therubyracer'](https://rubygems.org/gems/therubyracer)
 
-## Installation 
-1. Use the `cd` to navigate to the directory 
+## Installation
+1. Use the `cd` to navigate to the directory
 2. Install the `bundler` gem
-    
-    ```
-        gem install bundler
-    ```
+
+  ```
+      gem install bundler
+  ```
 3. Install the gems in the `Gemfile`
-    
-    ```
-        bundle install
-    ```
+
+  ```
+      bundle install
+  ```
 4. Start up the jekyll server
-    
-    ```
-        jekyll serve --host 0.0.0.0 
-    ```
+
+  ```
+      jekyll serve --host 0.0.0.0
+  ```
 5. The jekyll server will be active on port 4000
 
 ## Versions
@@ -51,5 +51,10 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
   ```
 - To upgrade your version of RubyGems
   ```
-    gem update --system    
+    gem update --system
   ```
+
+****
+_Started March 3rd 2017_
+
+_Updates Oct 12th 2018_

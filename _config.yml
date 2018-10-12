@@ -23,6 +23,7 @@ owner: "Yusuf Fadairo"
 # Build settings
 markdown: kramdown
 incremental: true
+# Constansts and Messages
 message:
   intro: "The personal site of Yusuf Fadairo showcasing relevant history of development work"
   bye: "Come back, Please!"
