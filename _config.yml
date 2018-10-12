@@ -9,12 +9,11 @@
 name: Yusuf Fadairo
 title: "Yusuf Fadairo"
 email: hi@yusuffadairo.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until next key
   The personal site of Yusuf Fadairo showcasing relevant history of development work as well as some thoughts for the future 
 keywords: "yusuf, fadairo, yusuffadairo, developer, development, portfolio, personal, creative, plain, software, engineer, computer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.yusuffadairo.com" # the base hostname & protocol for your site
-email: hi@yusuffadairo.com
 phone: 16134025264
 phone_safe: "1-613-402-five two six four"
 instagram_username: yusuf.soyo
