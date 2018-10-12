@@ -55,6 +55,6 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
   ```
 
 ****
-_Started March 3rd 2017_
+_Started Jun 3rd 2015_
 
 _Updated Oct 12th 2018_
