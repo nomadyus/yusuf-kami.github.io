@@ -43,11 +43,11 @@ body {
 @keyframes shine-left-right {
 
   from{
-    background-position: -100%;
+    background-position: -150px;
   }
 
   to {
-    background-position: 200%;
+    background-position: calc(100% + 150px);
   }
 }
 
