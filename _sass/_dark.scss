@@ -6,6 +6,68 @@ body {
   @extend .bg-dark;
 }
 
-.golden:hover {
+.color-gold {
   color: #ffd42d;
+}
+
+.grid {
+  display: grid;
+}
+
+.centered {
+  margin: auto;
+}
+
+.v-centered {
+  margin-top: auto;
+  margin-bottom: auto
+}
+
+.h-centered {
+  margin-right: auto;
+  margin-left: auto
+}
+
+@keyframes appear-from-bottom {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes shine-left-right {
+
+  from{
+    background-position: -100%;
+  }
+
+  to {
+    background-position: 200%;
+  }
+}
+
+.animate-appear {
+  animation-name: appear-from-bottom;
+  animation-duration: 2s;
+  animation-delay: 1.5s;
+}
+
+.animate-shine {
+  animation-name: shine-left-right;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+.shine {
+  background: #000 -webkit-gradient(linear, left top, right top, from(#000), to(#000), color-stop(0.8, #fff)) 0 0 no-repeat;
+  background-size: 150px;
+  color: rgba(255, 212, 45, 0.8);
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow: 0 0px 0px rgba(255, 255, 255, 0.5);
 }

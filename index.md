@@ -1,16 +1,14 @@
 ---
 layout: dark
 ---
-<div id="h-100 w-100">
-  <div class="main absolute ff-verdana w-60-ns w-80 left-50 transform-center top-50 tc">
-    <div class="header">
-      <a class="link black" href="{{ site.url }}/about"><h1 class="f-7vw tc ma0 pa0 golden">{{ site.name }}</h1></a>
+
+<div id="index" class="w-100 h-100 grid">
+  <div class="centered">
+    <div class="w-100 db v-mid tc white ph3 ph4-l pb0 ma0">
+      <h1 class="color-gold f6 f3-m f-headline-l fw6 tc pa0 ma0 shine animate-shine">{{ site.name }}</h1>
     </div>
-    <div class="content">
-      <h2 class="ma0 pa2 f6 fw4"> {{ site.message.intro }} </h2>
-      <p class="ma0 pa0 f4">
-        <a class="link emphasize" href="mailto:{{ site.email }}">{{ site.email }}</a>
-      </p>
+    <div class="w-100 v-mid tc white pa0 ma0 pt1 animate-appear">
+      <a class="link light-gray f3 f2-m fw2 tc" href="mailto:{{ site.email }}">{{ site.email }}</a>
     </div>
   </div>
 </div>
