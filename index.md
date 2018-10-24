@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: dark
 ---
 <div id="h-100 w-100">
   <div class="main absolute ff-verdana w-60-ns w-80 left-50 transform-center top-50 tc">

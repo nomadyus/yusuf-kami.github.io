@@ -1,3 +1,11 @@
+.bg-dark {
+  background-color: #000a17;
+}
+
 body {
-    background-color: #002e63;
+  @extend .bg-dark;
+}
+
+.golden:hover {
+  color: #ffd42d;
 }
