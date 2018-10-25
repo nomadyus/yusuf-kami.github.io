@@ -6,7 +6,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
 
 ## tl;dr
 ```
-  bundle install; jekyll serve --host 0.0.0.0
+  gem install bundler; bundler; jekyll serve --host 0.0.0.0
 ```
 
 ## Requirements
