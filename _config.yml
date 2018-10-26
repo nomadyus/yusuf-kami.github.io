@@ -10,12 +10,12 @@ name: Yusuf Fadairo
 title: "Yusuf Fadairo"
 email: hi@yusuffadairo.com
 description: > # this means to ignore newlines until next key
-  The personal site of Yusuf Fadairo showcasing relevant history of development work as well as some thoughts for the future 
+  The personal site of Yusuf Fadairo showcasing relevant history of development work as well as thoughts of the past, present and future.
 keywords: "yusuf, fadairo, yusuffadairo, developer, development, portfolio, personal, creative, plain, software, engineer, computer"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.yusuffadairo.com" # the base hostname & protocol for your site
-phone: 16134025264
-phone_safe: "1-613-402-five two six four"
+mobile: 16134025264
+mobile_safe: "1-613-402-five two six four"
 instagram_username: yusuf.soyo
 github_username:  yusuf-kami
 author: yusuffadairo.com
@@ -23,13 +23,15 @@ owner: "Yusuf Fadairo"
 # Build settings
 markdown: kramdown
 incremental: true
-# Constansts and Messages
+# Constants and Messages
 message:
-  intro: "The personal site of Yusuf Fadairo showcasing relevant history of development work"
+  intro: "The personal site of Yusuf Fadairo showcasing relevant history of development work."
   bye: "Come back, Please!"
   move: "You have the power after all!!"
   yusuf_is:
-    - "a Software Developer."
-    - "a Dancing machine!"
-    - "quite silly."
-    - "Toronto"
+    - "a Software Developer"
+    - "a Dancer"
+    - "a Nomad"
+    - "a Minimalist"
+    - "an Engineer"
+    - "a Pilot"
