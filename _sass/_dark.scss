@@ -20,12 +20,12 @@ body {
 
 .v-centered {
   margin-top: auto;
-  margin-bottom: auto
+  margin-bottom: auto;
 }
 
 .h-centered {
   margin-right: auto;
-  margin-left: auto
+  margin-left: auto;
 }
 
 @keyframes appear-from-bottom {
@@ -42,7 +42,7 @@ body {
 
 @keyframes shine-left-right {
 
-  from{
+  from {
     background-position: -150px;
   }
 
@@ -54,7 +54,6 @@ body {
 .animate-appear {
   animation-name: appear-from-bottom;
   animation-duration: 2s;
-  animation-delay: 1.5s;
 }
 
 .animate-shine {
