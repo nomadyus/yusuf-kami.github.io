@@ -8,7 +8,7 @@ layout: dark
       <h1 class="color-gold f6 f3-m f-headline-l fw6 tc pa0 ma0 shine animate-shine">{{ site.name }}</h1>
     </div>
     <div class="w-100 v-mid tc white pa0 ma0 pt1 animate-appear">
-      <a class="link gray f3 f2-m fw2 tc" href="mailto:{{ site.email }}">{{ site.email }}</a>
+      <a class="link white f3 f2-m fw2 tc" href="mailto:{{ site.email }}">{{ site.email }}</a>
     </div>
   </div>
 </div>
