@@ -1,6 +1,6 @@
 ---
 layout: plain/post
-title:  "Semana en la agua"
+title:  "Semana en el agua"
 date:   2018-11-07 11:17:25 -0100
 categories: blog vacation trip relax thoughts
 ---
