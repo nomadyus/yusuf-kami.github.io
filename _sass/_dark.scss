@@ -1,9 +1,9 @@
-.bg-dark {
+.bg-gold {
   background-color: rgba(255,212,45,0.9);
 }
 
-body {
-  @extend .bg-dark;
+.gold-back {
+  @extend .bg-gold;
 }
 
 .color-gold {
