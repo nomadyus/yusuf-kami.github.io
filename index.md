@@ -15,8 +15,7 @@ layout: bright
   </div>
 </div>
 
-<div id="index" class="w-100 h-100 grid">
+<div id="index" class="w-100 h-100 grid dn">
 <div class="centered">
-<h2>Add resume</h2>
 </div>
 </div>
