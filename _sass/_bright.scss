@@ -1,0 +1,72 @@
+.bg-gold {
+  background-color: rgba(255,212,45,0.9);
+}
+
+.gold-back {
+  @extend .bg-gold;
+}
+
+.color-gold {
+  color: #ffd42d;
+}
+
+.grid {
+  display: grid;
+}
+
+.centered {
+  margin: auto;
+}
+
+.v-centered {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.h-centered {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@keyframes appear-from-bottom {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes shine-left-right {
+
+  from {
+    background-position: -150px;
+  }
+
+  to {
+    background-position: calc(100% + 150px);
+  }
+}
+
+.animate-appear {
+  animation-name: appear-from-bottom;
+  animation-duration: 2s;
+}
+
+.animate-shine {
+  animation-name: shine-left-right;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+.shine {
+  background: #000 -webkit-gradient(linear, 0% 100%, 100% 100%, from(#000000), to(#000000), color-stop(.5,#FFFFFF)) 0 0 no-repeat;
+  background-size: 150px;
+  color: rgba(0,10,23, 0.5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow: 0 0px 0px rgba(255, 255, 255, 0.5);
+}
