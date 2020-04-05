@@ -1,5 +1,5 @@
 ---
-layout: dark
+layout: bright
 title: What's up!
 permalink: /posts/
 ---
