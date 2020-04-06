@@ -15,7 +15,7 @@ layout: bright
   </div>
 </div>
 
-<div id="index" class="w-100 h-100 grid dn">
+<div id="index" class="w-100 h-100 dn">
 <div class="centered">
 </div>
 </div>
