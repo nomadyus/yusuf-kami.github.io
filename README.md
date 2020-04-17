@@ -1,13 +1,13 @@
 # [yusuf-kami.github.io](//yusuf-kami.github.io)
 Personal website powered by Jekyll and GitHub Pages showcasing history of dev work of Yusuf Fadairo.
 
-## CNAME
-[yusuffadairo.com](//yusuf-kami.github.io)
-
 ## tl;dr
 ```
   gem install bundler; bundler; jekyll serve --host 0.0.0.0
 ```
+
+## CNAME
+[yusuffadairo.com](//yusuf-kami.github.io)
 
 ## Requirements
 - ruby >= 2.0.0
