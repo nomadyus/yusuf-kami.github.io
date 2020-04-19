@@ -1,4 +1,4 @@
-# [yusuf-kami.github.io](//yusuf-kami.github.io)
+# [yusuf-kami.github.io](yusuffadairo.com)
 Personal website powered by Jekyll and GitHub Pages showcasing history of dev work of Yusuf Fadairo.
 
 ## tl;dr
@@ -7,7 +7,7 @@ Personal website powered by Jekyll and GitHub Pages showcasing history of dev wo
 ```
 
 ## CNAME
-[yusuffadairo.com](//yusuf-kami.github.io)
+[yusuffadairo.com](yusuffadairo.com)
 
 ## Requirements
 - ruby >= 2.0.0
